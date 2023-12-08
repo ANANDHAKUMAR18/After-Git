@@ -12,7 +12,7 @@ public class Maths {
 		int result =a-b;
 		System.out.println("Sub of two numbers =" + result);
 		}
-	
+	//New Commit Bro from Remote2 Account:))
 	
 	public static void main(String[] args){
     Maths obj=new Maths();

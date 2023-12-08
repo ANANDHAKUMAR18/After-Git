@@ -20,6 +20,8 @@ public class Maths {
 
 	//Stashs
 	
+	//Wow
+	
 
 	public static void main(String[] args){
     Maths obj=new Maths();
